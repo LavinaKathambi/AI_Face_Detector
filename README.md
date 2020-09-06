@@ -8,3 +8,4 @@ It's coded in python
 The library used is Opencv; the algorithm is already trained, I used haar cascade algorithm which is already pre-trained
 
 You need to install open cv; pip install opencv-python or pip install opencv-python-headless(if you are getting any errors)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/pic.jpg?raw=true)
